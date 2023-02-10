@@ -1,0 +1,2 @@
+# Simetrik-sukkotasa
+emo.json
