@@ -1,2 +1,1 @@
-# Simetrik-sukkotasa
-emo.json
+["xbahadir_zdmr"]
